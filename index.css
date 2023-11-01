@@ -383,7 +383,7 @@ body.menu-expanded button path {
 }
 
 footer {
-    background-color: var(--primary-color);
+    background-color:  hsl(225, 5%, 52%);
     padding-block: 6rem;
     text-align: left;
     color: #fff;
