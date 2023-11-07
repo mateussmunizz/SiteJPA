@@ -383,7 +383,7 @@ body.menu-expanded button path {
 }
 
 footer {
-    background-color:  hsl(225, 5%, 52%);
+    background-color:  hsl(204, 3%, 67%);
     padding-block: 6rem;
     text-align: left;
     color: #fff;
@@ -692,7 +692,7 @@ footer .social-links {
 
     footer {
         padding-block: 0rem;   
-        background-color: hsl(225, 5%, 52%);
+        background-color: hsl(204, 3%, 67%);
         
     }
 
